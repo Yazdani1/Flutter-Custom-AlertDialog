@@ -136,7 +136,6 @@ class _HomeState extends State<Home> {
                               shape: RoundedRectangleBorder(
                                   borderRadius: BorderRadius.circular(20.0)
                               ),
-                              
                               elevation: 15.0,
                               child: new Text("DELETE",
                                 style: TextStyle(
