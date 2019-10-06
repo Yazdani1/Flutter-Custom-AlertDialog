@@ -31,7 +31,6 @@ class _HomeState extends State<Home> {
               color: Colors.white
             ),
             ),
-
             onPressed: (){
               customDialog(context);
             },
